@@ -1,0 +1,11 @@
+*
+!*/
+!*.py
+!*.R
+!*.md
+#ignores all files except those ending in .py, .R, .md
+!.gitignore
+#commits this file
+.venv/
+.idea/
+#omits virtual env.idea/
