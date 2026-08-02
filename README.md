@@ -74,4 +74,4 @@ negbinom.R: R script used to fit negative binomial and zero-inflated negative bi
 
 ecNGS/manifest files were attained from: 
 
-Simon, S., Jörg Schlingemann, Johnson, G., Brenneis, C., & Dieckhoff, J. (2025). Deriving safe limits for N-nitroso-bisoprolol by error-corrected next-generation sequencing (ecNGS) and benchmark dose (BMD) analysis, integrated with QM modeling and CYP-docking analysis. Archives of Toxicology, 99(10), 3935–3962. https://doi.org/10.1007/s00204-025-04103-2
+Simon, S., Schlingemann, J., Johnson, G., Brenneis, C., & Dieckhoff, J. (2025). Deriving safe limits for N-nitroso-bisoprolol by error-corrected next-generation sequencing (ecNGS) and benchmark dose (BMD) analysis, integrated with QM modeling and CYP-docking analysis. Archives of Toxicology, 99(10), 3935–3962. https://doi.org/10.1007/s00204-025-04103-2
