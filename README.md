@@ -1,6 +1,7 @@
 #################################
 Requirements: 
 #################################
+
 Context assignment: 
 1. Python 3.12.3
 2. Windows subsystem for Linux (WSL: Ubuntu)
